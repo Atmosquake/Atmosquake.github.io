@@ -3,17 +3,22 @@ title: SS14 Medical Guide
 layout: default
 filename: medicalGuide.md
 ---
+
 # Atmosquake's Spacestation 14 Medical Guide
 Hello, this is my guide to Medical based on my play experience. I hope that this will help someone or help myself :) Please bare with me as I learn more about how to make Github pages, as I'm not too experienced at the moment.
 
 This site is meant to be a guide and a cheatsheet. I want to have a small guide for what certain medicines do, but also a quick chemistry guide on how to make these medicines.
+
+#### Table of Contents
+[How People Die](#how-people-die)
+[Medical Explanation and Medicine Effects](#medical-explanation-and-medicine-effects)
 
 ## How people die
 There are many methods of death in Spacestation 14, however, in every scenario, they will need to take a **total of 200 damage**. There are a few different types of damage as well, like Brute or Burn. Brute and Burn are damage categories that can be broken down further too. Brute can be blunt, slash, or piercing. Burn can be Heat, Shock, and cold. Don't worry too much about subcategories of damage, most medicines are designed to treat an entire category (except for toxin).
 
 When someone hits **100 damage** taken, they become crit or critical. In this state, they are no longer able to control their character. They fall on the floor and become disabled. They also stop breathing. At this point, they are unable to help themselves, so it's important to work fast to try and recover them.
 
-## Medical explanation and Medicine effects
+## Medical Explanation and Medicine Effects
 As a Medical department staff member, your core job is to help people who are injured or dying. You should know which medicines do what and how to help someone quickly and efficiently. To this end, luckily, there are only a few damage types and medicines you really need to worry about. The ones I put in **bold** will be the most popular damage types and the most typical treatment paths 
 
 __Damage type__ | __Treatment__ 
