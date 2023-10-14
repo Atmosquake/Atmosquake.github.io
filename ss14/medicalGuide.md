@@ -1,6 +1,6 @@
 ---
 title: SS14 Medical Guide
-layout: pages-themes/time-machine@v0.2.0
+layout: default
 filename: medicalGuide.md
 ---
 # Atmosquake's Spacestation 14 Medical Guide
@@ -28,3 +28,5 @@ Caustic | Ointment, **Siderlac**
 Genetic | **Phalanximine**
 
 *For treating Bloodloss and Bleeding, check their vitals first to see if you should temporarily heal their Bloodloss. The way that Bloodloss works is, you have a certain amount of blood in your body; For this example, lets say that you have 100 blood. When you dip under a threshold, let's say 50, you start taking bloodloss damage every couple of seconds. Dexaline and Dexaline+ can lower the damage number someone currently has for bloodloss, but it doesn't treat the cause, only the symptom temporarily. People regenerate their blood level naturally over time, assuming they're not bleeding. Once you have their bloodloss damage level under control, check to see if they're bleeding (shift click to gain context on if they're bleeding). If they are, you can cauterize them with a cautery or lighter. If the patient isn't critical, you can also ask them to touch a lightbulb or something hot. You may need to cauterize multiple times. You can also bandage them too. Once the bleeding is under control, you can give them Blood Packs or Iron to get their blood levels back to normal.
+
+## ag
